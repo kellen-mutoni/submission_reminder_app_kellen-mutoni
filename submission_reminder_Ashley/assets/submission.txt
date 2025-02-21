@@ -1,0 +1,10 @@
+Student, Assignment, Submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Ashley, Git Basics, Pending
+Aurore, Mission video, Late
+Beza Otriel, History, Not Submitted
+Djessy, Python, Submitted
+Mimy, Geography, Not submitted
